@@ -1,12 +1,9 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+병 판별 빅데이터/AI 분석 웹 서비스 – 서르
+ - 재활용분류기에 재활용페기물이 투입되면 그 제품이 무엇인지 인식이 되며 그 제품이 
+재활용이 가능한지, 원재료로 판매시 얼마나 받을지, 탄소배출량이 얼마나 절감되는지 
+등의 다양한 정보를 추출하는 데이터 분석은 서르에서 제공
+ - 서르에서 좀 더 높은 수준의 알고리즘을 사용하여 재활용이 안되면 왜 안되는지를 설
+명하는 정보를 제공
+ - 서르에서 제공한 정보를 일목 요연하게 가시화하는 웹을 개발하고, 이런 데이터를 관리
+할 수 있는 간단한 백엔드 시스템을 개발
+ - 풀스택웹개발 버전이 우수하면 서르에서 기술 인수, 개발에 참여한 인력도 채용 예정
