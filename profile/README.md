@@ -1,12 +1,4 @@
-<html>
-<body>
-<div style="background-color: whitesmoke; max-width: 400px; max-height: 100px;">
-
-
-</div>
-
-</body>
-</html>
+![logoW.png](logoW.png)
 
 ## 프로젝트 소개
 
