@@ -1,11 +1,10 @@
 ![logoW.png](logoW.png)
 
 ## 프로젝트 소개
-
+플라스틱 종류를 판단할 수 있는 모델을 개발하고 이를 이용한 플라스틱 재활용 서비스 웹 개발
 ## 주요 기능 소개
-
-## 프로젝트 비전
-
+1. 플라스틱 분류 모델
+2. 개인별 플라스틱 분류 현황 확인
 ## 프로젝트 개발 소개
 ### 기능 별 리포지토리
 * 통합 관리 : [PET-Recycling](https://github.com/Plastic-Recycling/PET-Recycling)
@@ -38,14 +37,3 @@
 <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
-
-## 내용(삭제예정)
-병 판별 빅데이터/AI 분석 웹 서비스 – 서르
-- 재활용분류기에 재활용페기물이 투입되면 그 제품이 무엇인지 인식이 되며 그 제품이
-  재활용이 가능한지, 원재료로 판매시 얼마나 받을지, 탄소배출량이 얼마나 절감되는지
-  등의 다양한 정보를 추출하는 데이터 분석은 서르에서 제공
-- 서르에서 좀 더 높은 수준의 알고리즘을 사용하여 재활용이 안되면 왜 안되는지를 설
-  명하는 정보를 제공
-- 서르에서 제공한 정보를 일목 요연하게 가시화하는 웹을 개발하고, 이런 데이터를 관리
-  할 수 있는 간단한 백엔드 시스템을 개발
-- 풀스택웹개발 버전이 우수하면 서르에서 기술 인수, 개발에 참여한 인력도 채용 예정
